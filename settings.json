@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "crownsmp124.play.hosting",
     "port": 25565,
-    "version": "",
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
