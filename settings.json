@@ -6,8 +6,8 @@
     "type": "mojang"
   },
   "server": {
-    "ip": "crownsmp124.play.hosting",
-    "port": 25565,
+    "ip": "Projector_SMP_S2.aternos.me",
+    "port": 44929,
     "version": "26.2",
     "try-creative": false
   },
