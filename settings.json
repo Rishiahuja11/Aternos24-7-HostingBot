@@ -8,7 +8,7 @@
   "server": {
     "ip": "server.smp45.qzz.io",
     "port": 25565,
-    "version": "26.2",
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
